@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="262" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdmcjFpN3IzbzgzbW9pbW5jN2ZicHl6MTU3cXFlZGw3eHFpeTkzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsXhBzpoRApBkPK/giphy.gif"  />
+</div>
+
+###
+
 <h1 align="left">Hi 👋! My name is Mohamed Alaa</h1>
 
 ###
