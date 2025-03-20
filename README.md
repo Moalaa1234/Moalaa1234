@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="262" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdmcjFpN3IzbzgzbW9pbW5jN2ZicHl6MTU3cXFlZGw3eHFpeTkzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsXhBzpoRApBkPK/giphy.gif"  />
-</div>
-
-###
-
 <h1 align="left">Hi 👋! My name is Mohamed Alaa</h1>
 
 ###
@@ -37,6 +31,12 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img height="262" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdmcjFpN3IzbzgzbW9pbW5jN2ZicHl6MTU3cXFlZGw3eHFpeTkzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsXhBzpoRApBkPK/giphy.gif"  />
 </div>
 
 ###
